@@ -118,34 +118,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"2019 국어 정보 처리 시스템 경진 대회",
+        "category":"의존 구문 분석 시스템 개발 및 적용 지정분야 부분 대상 수상",
+        "image":"dependency_parsing.png",
+        "url":"https://ithub.korean.go.kr/user/contest/contestPrizeView.do;jsessionid=946FD0E6B7854C0CEAE13E49B69C63FA"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"포스트 코로나 AI 챌린지",
+        "category":"해외의 감염병이 국내로 유입될 위험도 산출 모델링",
+        "image":"post_corona_ai.jpg",
+        "url":"http://www.aihub.or.kr/problem_contest/covid19"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"YouTube UX Redesign Project",
+        "category":"YouTube 모바일 앱의 사용성을 개선하는 프로젝트",
+        "image":"youtube.png",
+        "url":"www.youtube.com"
       }
     ]
   },
